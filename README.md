@@ -2,6 +2,8 @@
 
 **Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
 
+![](./images/k8s_06.gif)
+
 <!--
 **yuyicai/yuyicai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
