@@ -2,8 +2,6 @@
 
 **Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
 
-![](https://github.com/yuyicai/yuyicai/blob/master/images/k8s_06.gif)
-
 <!--
 **yuyicai/yuyicai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning `terraform`
+- 💬 Ask me about `K8s` `Docker`  `CI/CD` `Go` `Ansible` `Shell`
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyicai&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
