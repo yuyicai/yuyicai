@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🏠 I’m currently working from home
-- 👦 About me: `Gopher` `CKA` `CKAD` `CNCF Nocalhost Maintainer`
+- 👦 About me: `Gopher` `CKA` `CKAD`
 - 💬 Ask me about `K8s` `Docker` `Istio` `Envoy` `Go` `Ansible`
 
 <!--
